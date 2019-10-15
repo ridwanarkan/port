@@ -23,8 +23,7 @@ body {
 	width: 200px;
 	border: 5px solid #999;
 }
-
-.jumbotron h1, p {
+.jumbotron p {
 	color: whitesmoke;
 }
 
