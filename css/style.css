@@ -21,6 +21,10 @@ body {
 	border: 5px solid #999;
 }
 
+.jumbotron h1, p {
+	color: whitesmoke;
+}
+
 hr {
 	width: 250px;
 	border-top: 3px solid #999;
