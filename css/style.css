@@ -15,6 +15,9 @@ body {
 	overflow: hidden;
 	position: relative;
 }
+.navbar-brand img{
+	margin-top: -8px;
+}
 
 .jumbotron img {
 	width: 200px;
