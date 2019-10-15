@@ -63,6 +63,9 @@ footer p i {
 .medsos a{
 	display: inline;
 }
+.about p, .portfolio p {
+	text-align: justify;
+}
 
 /* button */
 .button {
