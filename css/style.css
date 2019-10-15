@@ -6,10 +6,19 @@ body {
 	margin-bottom: 120px;
 	margin-top:30px;
 }
+.jumbotron {
+	height: 600px;
+	background-image: url(../img/header-bg.png);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0px 0px;
+	overflow: hidden;
+	position: relative;
+}
 
 .jumbotron img {
 	width: 200px;
-	border: 5px solid #666;
+	border: 5px solid #999;
 }
 
 hr {
